@@ -731,6 +731,7 @@
 		}
 
 			#main .avatar img {
+				width: 20%;
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
