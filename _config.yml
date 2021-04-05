@@ -20,7 +20,8 @@ linkedin_url: https://www.linkedin.com/in/chaewon-im-576111209
 pinterest_url:
 slack_url:
 twitter_url: 
-pf_url: https://imchaewon.github.io/portfolio/ 
+pf_url: https://imchaewon.github.io/portfolio/
+blog_url: https://yeoumul.tistory.com/  
 
 # Build settings
 markdown: kramdown
