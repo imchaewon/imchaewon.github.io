@@ -15,11 +15,12 @@ facebook_url: https://facebook.com/profile.php?id=100005942894033
 github_url: https://github.com/imchaewon
 gitlab_url: 
 googleplus_url:
-instagram_url:
+instagram_url: https://www.instagram.com/chaewwwon/
 linkedin_url: https://www.linkedin.com/in/chaewon-im-576111209
 pinterest_url:
 slack_url:
 twitter_url: 
+pf_url: https://imchaewon.github.io/portfolio/ 
 
 # Build settings
 markdown: kramdown
