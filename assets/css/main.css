@@ -702,7 +702,7 @@
 
 	#main {
 		position: relative;
-		max-width: 100%;
+		/*max-*/width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		background: #ffffff;
@@ -736,6 +736,24 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
+			}
+			
+			#main .avatar .con {
+				display: inline-block;
+			    padding: 7.5%;
+			    border-radius: 50%;
+			    position: relative;
+			    overflow: hidden;
+			    box-shadow: 0 0 0 1.5em #ffffff;
+			}
+			
+			#main .avatar .image {
+				    position: absolute;
+				    left: 0;
+				    right: 0;
+				    top: 0;
+				    bottom: 0;
+				    background: url(https://imchaewon.github.io/assets/images/avatar.jpg)no-repeat center/cover
 			}
 
 			#main .avatar:before {
